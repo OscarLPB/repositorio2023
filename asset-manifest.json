@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/repositorio2023/static/css/main.edd3662e.css",
+    "main.js": "/repositorio2023/static/js/main.45968bb4.js",
+    "static/js/787.ea422df6.chunk.js": "/repositorio2023/static/js/787.ea422df6.chunk.js",
+    "static/media/barcelonaeq1.jpg": "/repositorio2023/static/media/barcelonaeq1.1a2d3ac7fd48928edc98.jpg",
+    "static/media/logo1.png": "/repositorio2023/static/media/logo1.e7c81ff0798ee10447f0.png",
+    "index.html": "/repositorio2023/index.html",
+    "main.edd3662e.css.map": "/repositorio2023/static/css/main.edd3662e.css.map",
+    "main.45968bb4.js.map": "/repositorio2023/static/js/main.45968bb4.js.map",
+    "787.ea422df6.chunk.js.map": "/repositorio2023/static/js/787.ea422df6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edd3662e.css",
+    "static/js/main.45968bb4.js"
+  ]
+}
